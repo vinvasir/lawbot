@@ -64,3 +64,13 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+
+#photos {
+  height: 600px;
+}
+
+#photos .img-responsive {
+    display: block;
+    width: auto;
+    max-height: 100%;
+}
